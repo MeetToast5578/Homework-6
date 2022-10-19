@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: #454545;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -38,7 +38,7 @@ div{
 .span3{
     width: 250px;
     height: 204px;
-    background-color: rgb(28, 17, 100);
+    background-color: rgb(100, 39, 17);
     display: flex;
     position: absolute;
     transform: rotate(145deg);
@@ -49,7 +49,7 @@ div{
 .circle{
     width: 70px;
     height: 70px;
-    background: rgb(255, 255, 255);
+    background: rgb(141, 141, 141);
     display: flex;
     position: absolute;
     justify-content: center;
